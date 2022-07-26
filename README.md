@@ -24,6 +24,12 @@ If you use this code, please cite the corresponding paper:
 
 Drakopoulos, F., Vasilkov, V., Osses Vecchi, A., Wartenberg, T. & Verhulst, S. Model-based hearing-enhancement strategies for cochlear synaptopathy pathologies. Hearing Research, 108569 (2022). https://doi.org/10.1016/j.heares.2022.108569
 
+This repository can also be cited separately:
+
+Drakopoulos, F., Vasilkov, V., Osses Vecchi, A., Wartenberg, T. & Verhulst, S. fotisdr/CS_compensation: Model-based hearing-enhancement strategies for cochlear synaptopathy pathologies (v1.0). Zenodo. (2022). [https://github.com/fotisdr/CS_compensation](https://github.com/fotisdr/CS_compensation).
+
+[![DOI](https://zenodo.org/badge/418909959.svg)](https://zenodo.org/badge/latestdoi/418909959)
+
 ##
 For questions, please reach out to one of the corresponding authors:
 
