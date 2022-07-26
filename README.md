@@ -1,6 +1,6 @@
 ## Model-based hearing-enhancement strategies for cochlear synaptopathy pathologies
 
-**Drakopoulos, F., Vasilkov, V., Osses Vecchi, A., Wartenberg, T. & Verhulst, S. Model-based hearing-enhancement strategies for cochlear synaptopathy pathologies. Hearing Research 108569 (2022). https://doi.org/10.1016/j.heares.2022.108569**
+**Drakopoulos, F., Vasilkov, V., Osses Vecchi, A., Wartenberg, T. & Verhulst, S. Model-based hearing-enhancement strategies for cochlear synaptopathy pathologies. Hearing Research, 108569 (2022). https://doi.org/10.1016/j.heares.2022.108569**
 
 This repository contains the presented hearing-loss compensation strategies for cochlear synaptopathy (CS), as well as the evaluation results of our participants and the scripts that were used to record and analyse EEGs. The supporting paper can be found [here](https://doi.org/10.1016/j.heares.2022.108569) and a pre-print version is available under the *doc* folder (https://www.biorxiv.org/content/10.1101/2022.01.10.475652v2). The hearing-enhancement algorithms were designed to compensate for the degraded AN responses of CS-affected auditory peripheries, based on simulated outcomes of a biophysically inspired auditory model ([Verhulst et al. 2018, v1.2](https://github.com/HearingTechnology/Verhulstetal2018Model)). 
 
@@ -22,7 +22,7 @@ Additionally, the *EFR_analysis* folder contains the `analyse_bdf.m` script (alo
 ## Citation
 If you use this code, please cite the corresponding paper:
 
-Drakopoulos, F., Vasilkov, V., Osses Vecchi, A., Wartenberg, T. & Verhulst, S. Model-based hearing-enhancement strategies for cochlear synaptopathy pathologies. Hearing Research 108569 (2022). https://doi.org/10.1016/j.heares.2022.108569
+Drakopoulos, F., Vasilkov, V., Osses Vecchi, A., Wartenberg, T. & Verhulst, S. Model-based hearing-enhancement strategies for cochlear synaptopathy pathologies. Hearing Research, 108569 (2022). https://doi.org/10.1016/j.heares.2022.108569
 
 ##
 For questions, please reach out to one of the corresponding authors:
